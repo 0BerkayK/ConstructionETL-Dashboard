@@ -1,0 +1,16 @@
+project_id,project_name,city,country,category,start_date,planned_duration_days
+1,Allianz Tower,İstanbul,Türkiye,Altyapı - Üstyapı,2021-12-01,450
+2,Doğalgazdan Benzin Üretim Tesisi (GTG),Ahal,Türkmenistan,Endüstriyel İnşaatlar,2022-01-15,720
+3,Premium CarPark P3,Amsterdam,Hollanda,Altyapı - Üstyapı,2022-03-10,300
+4,Nobo Otrobanda Hastanesi,Willemstad,Curacao,Altyapı - Üstyapı,2022-04-25,540
+5,St. Lucia Limanı Genişletme Projesi,St. Lucia,St. Lucia,Altyapı - Üstyapı,2022-05-20,360
+6,Gaziantep Şehir Hastanesi,Gaziantep,Türkiye,Sağlık Yatırımı,2022-06-15,700
+7,Başakşehir Çam ve Sakura Şehir Hastanesi,İstanbul,Türkiye,Sağlık Yatırımı,2022-07-10,720
+8,Adana Şehir Hastanesi,Adana,Türkiye,Sağlık Yatırımı,2022-08-05,730
+9,Bursa Şehir Hastanesi,Bursa,Türkiye,Sağlık Yatırımı,2022-09-01,600
+10,Elazığ Fethi Sekin Şehir Hastanesi,Elazığ,Türkiye,Sağlık Yatırımı,2022-10-10,580
+11,Yozgat Şehir Hastanesi,Yozgat,Türkiye,Sağlık Yatırımı,2022-11-05,560
+12,Talan Kuleleri,Astana,Kazakistan,Üstyapı İnşaatlar,2022-12-20,610
+13,Eleven Square,Amsterdam,Hollanda,Üstyapı İnşaatlar,2023-01-15,420
+14,Türkmenistan Bakanlık Binaları,Aşkabat,Türkmenistan,Üstyapı İnşaatlar,2023-02-25,500
+15,Nakkaş-Başakşehir Otoyolu Projesi,İstanbul,Türkiye,Altyapı - Üstyapı,2023-03-30,390
